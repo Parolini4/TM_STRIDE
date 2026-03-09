@@ -1,7 +1,6 @@
 # TM_STRIDE
 Threat Modeling de Plataforma E-commerce (STRIDE)
 
-Sobre o projeto:
 Este repositório apresenta um estudo acadêmico de modelagem de ameaças (Threat Modeling) aplicado a uma arquitetura hipotética de plataforma e-commerce. O trabalho tem como objetivo explorar conceitos de segurança de sistemas e identificar possíveis riscos presentes em aplicações web que lidam com dados sensíveis, como informações de usuários, pedidos e transações.
 
 A análise foi conduzida utilizando o modelo STRIDE, um método amplamente utilizado em engenharia de segurança para classificar ameaças de acordo com seus possíveis impactos. A partir dessa abordagem, foram avaliados diferentes componentes da arquitetura, incluindo navegadores de usuários, servidores web, aplicação e banco de dados.
